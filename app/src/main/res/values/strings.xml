@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android_youbi</string>
+
+    <string name="action_settings">Settings</string>
+    <!--引导界面图片-->
+    <string-array name="guide_pic">
+        <item>guide_pic0</item>
+        <item>guide_pic1</item>
+        <item>guide_pic2</item>
+    </string-array>
+</resources>
